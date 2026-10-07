@@ -1,0 +1,2 @@
+﻿hostname;model;processor;physical_cores;cpu_max_mhz;ram_gb;fs_type;storage_gb;primary_iface;mac;ipv4;ipv6;ipv6_link_local
+Unluckydodo;HP ProBook 455 G8 Notebook PC;AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD;3;2301.0;7.31;NTFS;236.1;Wi-Fi;70-9C-D1-E9-BE-BB;10.109.224.173;N/A;N/A
