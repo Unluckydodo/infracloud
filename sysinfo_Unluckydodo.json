@@ -1,0 +1,16 @@
+{
+  "hostname": "Unluckydodo",
+  "model": "HP ProBook 455 G8 Notebook PC",
+  "serial_number": "5CD111NW3W",
+  "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+  "physical_cores": 3,
+  "cpu_max_mhz": 2301.0,
+  "ram_gb": 7.31,
+  "fs_type": "NTFS",
+  "storage_gb": 236.1,
+  "primary_iface": "Wi-Fi",
+  "mac": "70-9C-D1-E9-BE-BB",
+  "ipv4": "192.168.1.38",
+  "ipv6": "N/A",
+  "ipv6_link_local": "N/A"
+}
